@@ -1,0 +1,16 @@
+streamlit==1.37.0
+torch==2.3.1
+transformers==4.42.4
+scikit-learn==1.5.1
+pandas==2.2.2
+numpy==1.26.4
+nltk==3.8.1
+matplotlib==3.9.2
+seaborn==0.13.2
+requests==2.32.3
+tqdm==4.66.4
+newspaper3k==0.2.8
+plotly==5.22.0
+sentencepiece==0.2.0
+protobuf==4.25.3
+lxml_html_clean==0.1.1
